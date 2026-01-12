@@ -30,9 +30,9 @@ A calculator project with basic operations (add, subtract, multiply, divide) and
 - Prints my name on start to demonstrate originality
 
 ## Files
-- `MadLibs-Generator/` → Python code and screenshots for Mad Libs
-- `Calculator/` → Python code and screenshots for Calculator
-- `Project_Explanation.pdf` → Full description, code, and screenshots for both projects
+- `Mad Libs Project/` → Python code and screenshots for Mad Libs
+- `Calculator Project/` → Python code and screenshots for Calculator
+- `Final Individual Take Home Project.pdf` → Full description, code, and screenshots for both projects
 
 ## Skills Practiced
 - Python programming
